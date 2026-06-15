@@ -28,3 +28,8 @@ https://docs.google.com/spreadsheets/d/11rwHIRc9titt_4bgqauJRBTAdBTmct5Hfy1bdGLn
 
 <img width="1116" height="684" alt="image" src="https://github.com/user-attachments/assets/7552dba3-4779-4158-a0cc-841fffae9bc1" />
 
+## QUIZ-2 Leadboard
+
+<img width="838" height="590" alt="image" src="https://github.com/user-attachments/assets/ad77686e-c957-4211-8e9e-383cddae9a4e" />
+
+
