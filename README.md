@@ -19,6 +19,11 @@ https://docs.google.com/spreadsheets/d/11rwHIRc9titt_4bgqauJRBTAdBTmct5Hfy1bdGLn
   aws eks --region us-east-1 update-kubeconfig --name hksCluster
 
 
+## KUBERNETES Swith Context
+
+  kubectl config use-context minikube
+
+
 ## QUIZ-1 Leadbaord
 
 <img width="1116" height="684" alt="image" src="https://github.com/user-attachments/assets/7552dba3-4779-4158-a0cc-841fffae9bc1" />
